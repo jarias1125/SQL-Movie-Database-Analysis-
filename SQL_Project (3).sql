@@ -1,15 +1,8 @@
 -- ==================================== --
 -- MSc in DSAIS 
 -- 2024-2025
--- SQL group exercise 
+-- SQL Project
 -- ==================================== --
--- You will work here on the movies database. 
--- You will focus on the table metadata but what we will see is applicable to 
--- the other tables as well.
-
--- Comments are expected for every answers. 
--- They should cover why you provided such answer, 
--- as well as commenting the outputs.
 
 -- ==================================== --
 -- PART ONE: Evaluate data imperfection
